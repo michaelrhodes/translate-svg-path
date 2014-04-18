@@ -12,7 +12,7 @@ $ npm install translate-svg-path
 
 ## API
 ```js
-translate(path, x [,y])
+translate(path, x [, y])
 ```
 
 ### Example
@@ -23,7 +23,7 @@ var serialize = require('serialize-svg-path')
 
 var path = parse('M10 10 L15 15')
 var x = translate(path, 20)
-var xy = tranlate(path, 20, 10)
+var xy = translate(path, 20, 10)
 
 serialize(x)
 // => 'M30 10 L35 15'
