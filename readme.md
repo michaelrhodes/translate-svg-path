@@ -7,7 +7,7 @@ translate-svg-path translates the position of a [parsed SVG path](https://github
 
 ## Install
 ```sh
-$ npm install michaelrhodes/translate-svg-path
+$ npm install translate-svg-path
 ```
 
 ## API
