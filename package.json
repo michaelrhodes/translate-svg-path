@@ -1,6 +1,6 @@
 {
   "name": "translate-svg-path",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Translates the position of an SVG path against its X/Y coordinates.",
   "main": "index.js",
   "directories": {

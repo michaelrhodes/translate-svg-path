@@ -5,6 +5,8 @@ translate-svg-path translates the position of a [parsed SVG path](https://github
 
 [![Browser support](https://ci.testling.com/michaelrhodes/translate-svg-path.png)](https://ci.testling.com/michaelrhodes/translate-svg-path)
 
+<small>Older browsers might require a polyfill for [Array.prototype.map](http://kangax.github.io/es5-compat-table/#Array.prototype.map).</small>
+
 ## Install
 ```sh
 $ npm install translate-svg-path
